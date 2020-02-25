@@ -1,0 +1,80 @@
+<!DOCTYPE.html>
+<html>
+<head>
+<title> SEM-1(B batch) </title>
+</head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+.bt{
+background-color:black;
+color:white;
+margin:20px;
+padding:10px;
+text-align:center;
+}
+.at{
+background-color:green;
+color:yellow;
+margin:20px;
+padding:10px;
+text-align:center;
+}
+</style>
+<body style="background-color:yellow;">
+<div class="bt">
+<h1> SEM-1(compulsory courses) </h1>
+</div>
+<div class="at">
+<table style="width:100%;">
+<tr><th align="center"> S.No. </th>
+    <th align="center"> Course Name </th>
+    <th align="center"> Video Lectures </th>
+    <th align="center"> Books and References </th>
+    <th align="center"> Lecture Notes </th>
+    <th align="center"> Assignments </th>
+</tr>
+<tr><td align="center"> 1. </td>
+    <td align="center"> ESC101A </td>
+    <td align="center"><a href="https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh"> Click Here </a> </td>
+    <td align="center"> <a href="https://b-ok.cc/book/496186/f64010"> LET US C(by yaswant kanetkar)</a> </td>
+    <td align="center"> <a href="http://www.iitk.ac.in/esc101/current/lectures.html"> Click Here </a> </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/0Bz0FYl3TKMvaNDJFeFphVllWY0k"> Click Here </a> </td>
+</tr>
+
+<tr><td align="center"> 2. </td>
+    <td align="center"> MTH101A </td>
+    <td align="center"> N/A </td>
+    <td align="center"> <a href="http://home.iitk.ac.in/~psraj/mth101/lecture_notes.html"> Click Here </a> </td>
+    <td align="center"> <a href="http://home.iitk.ac.in/~psraj/mth101/lecture_notes.html"> Click Here </a> </td>
+    <td align="center"> <a href="http://home.iitk.ac.in/~psraj/mth101/assignments.html"> Click Here </a> </td>
+</tr>
+
+<tr><td align="center"> 3. </td>
+    <td align="center"> PHY103A </td>
+    <td align="center"> available soon </td>
+    <td align="center"> <a href="https://b-ok.cc/book/5103011/55c730"> griffiths </a> </td>
+    <td align="center"> <a href=""> N/A </a> </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/0Bz0FYl3TKMvaQ1dHcEFwTXFraUk"> Click Here </a> </td>
+</tr>
+
+<tr><td align="center"> 4. </td>
+    <td align="center"> CHM101A </td>
+    <td align="center"> N/A </td>
+    <td align="center"> N/A </td>
+    <td align="center"> N/A </td>
+    <td align="center"> N/A </td>
+</tr>
+
+
+</div>
+
+
+
+</body>
+</html>

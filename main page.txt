@@ -1,0 +1,40 @@
+<!DOCTYPE.html>
+<html>
+<head>
+<title> SHUBHAM KUMAWAT </title>
+</head>
+<style>
+</style>
+<body img src="iitkanpurlogo.jpg" >
+<center> <h1> ABOUT ME </h1> 
+          <p style="color:blue"> Hi i am a student of Computer Science, IIT Kanpur.</p>
+          <p style="color:blue"> I cleared JEE in year 2019.</p>
+          <p style="color:blue"> I love playing video games, watching t.v. series and movies.</p>
+</center>
+
+<h1> COURSE MATERIAL </h1>
+</center>
+
+<button style="background-color:green;
+               color:blue;
+               length:4200px;
+               align:center;
+               width:300px;><a href=""> <h2>SEM-1</h2> </a>
+</button>
+
+<button style="background-color:green;
+               color:blue;
+               length:4200px;
+               align:center;
+               width:300px;><a href=""> <h2>SEM-2</h2> </a>
+</button>
+
+
+
+
+
+
+
+
+
+</body>

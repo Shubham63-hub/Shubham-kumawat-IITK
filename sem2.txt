@@ -1,0 +1,87 @@
+<!DOCTYPE.html>
+<html>
+<head>
+<title> SEM-2(B batch) </title>
+</head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+.bt{
+background-color:black;
+color:white;
+margin:20px;
+padding:10px;
+text-align:center;
+}
+.at{
+background-color:green;
+color:yellow;
+margin:20px;
+padding:10px;
+text-align:center;
+}
+</style>
+<body style="background-color:yellow;">
+<div class="bt">
+<h1> SEM-2(compulsory courses) </h1>
+</div>
+<div class="at">
+<table style="width:100%;">
+<tr><th align="center"> S.No. </th>
+    <th align="center"> Course Name </th>
+    <th align="center"> Video Lectures </th>
+    <th align="center"> Books and References </th>
+    <th align="center"> Lecture Notes </th>
+    <th align="center"> Assignments </th>
+</tr>
+<tr><td align="center"> 1. </td>
+    <td align="center"> PHY102A </td>
+    <td align="center"> SEARCH ACCORDING TO TOPIC </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/0Bz0FYl3TKMvaZ2ZsM1N0dURNcHM"> KLEPPNER </a> </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/15AIpiZH2sZ00bhZ8IneDZp1DGrnHdM17"> Click Here </a> </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/0Bz0FYl3TKMvaQ19jSVdhRmo3U1E"> Click Here </a> </td>
+</tr>
+
+<tr><td align="center"> 2. </td>
+    <td align="center"> MTH102A </td>
+    <td align="center"> <a href="https://www.youtube.com/playlist?list=PLo2fuKadGpUQx_NbxF_GidK98JmkzMLCx"> Click Here </a> </td>
+    <td align="center"> <a href="http://home.iitk.ac.in/~arlal/MTH102/la.pdf"> Click Here </a> </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/0Bz0FYl3TKMvacFUxdkExNTJITG8"> Click Here </a> </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/0Bz0FYl3TKMvabkRvbkV4a0tTd2c"> Click Here </a> </td>
+</tr>
+
+<tr><td align="center"> 3. </td>
+    <td align="center"> CHM102 </td>
+    <td align="center"> N/A </td>  
+    <td align="center"> N/A </td>
+    <td align="center"> <a href="https://t.me/CHM102Aiitk2020"> TELEGRAM </a> </td>
+    <td align="center"> <a href="https://t.me/CHM102Aiitk2020"> TELEGRAM </a> </td>
+</tr>
+
+<tr><td align="center"> 4. </td>
+    <td align="center"> TA101A </td>
+    <td align="center"> N/A </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/1QiaYBLVdfpsZhByM3EVfVIBAMA1rlrnU"> Click Here </a> </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/1QiaYBLVdfpsZhByM3EVfVIBAMA1rlrnU"> Click Here </a> </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/1QiaYBLVdfpsZhByM3EVfVIBAMA1rlrnU"> Click Here </a> </td>
+</tr>
+
+
+<tr><td align="center"> 5. </td>
+    <td align="center"> LIF101A </td>
+    <td align="center"> N/A </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/1fXfy_y-SdKQfA9sdGLRfYkGN3SuwAOTz"> Click Here </a> </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/1fXfy_y-SdKQfA9sdGLRfYkGN3SuwAOTz"> Click Here </a> </td>
+    <td align="center"> <a href="https://drive.google.com/drive/folders/1fXfy_y-SdKQfA9sdGLRfYkGN3SuwAOTz"> Click Here </a> </td>
+
+</div>
+
+
+
+</body>
+</html>
